@@ -1,6 +1,6 @@
 <p align="center">
 	<a alt="yahbingle logo" href="https://yahbingle.com">
-  <img alt="yahbingle-logo" src="./static/img/yahbingle-logo.png" width="700"><a/>
+  <img alt="yahbingle-logo" src="./docs/static/img/yahbingle-logo.png" width="700"><a/>
 </p>
 
 <p align="center">
