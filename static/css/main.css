@@ -1,0 +1,12 @@
+
+input {
+  height:40px;
+}
+.btn {
+  background-color:#F4F4F4;
+  color:#757575;
+  font-family:arial,sans-serif;
+}
+.btn:hover, .btn:focus, .btn:active, .btn.active {
+  border-color: #757575;
+}
