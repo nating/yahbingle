@@ -7,7 +7,7 @@
   Your new search engine lives at <a href="https://yahbingle.com">yahbingle.com.<a/>
   <br/>
   <br/>
-  Your welcome.
+  You're welcome.
 </p>
 
 ## What is Yahbingle?
@@ -16,13 +16,3 @@ Tired of making the decision as to which of the three most mainstream search eng
 
 ## Why?
 ...
-
-## How much is Yahbingle?
-
-Yahbingle will always be completely free to use.
-
-## Why hasn't this been done before?
-...
-
-## Are the Yahbingle team taking donations?
-No.
