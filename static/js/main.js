@@ -1,5 +1,5 @@
 
-SEARCH_URLS = ["https://google.com/search?q=","https://bing.com/search?q=","https://search.yahoo.com/search?q="];
+SEARCH_URLS = ["https://google.com/search?q=","https://bing.com/search?q=","https://search.yahoo.com/search?q=","https://duckduckgo.com/?q="];
 GOOGLE_SEARCH_URL = "https://google.com/search?q=";
 
 function search(){
