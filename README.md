@@ -12,7 +12,7 @@
 
 ## What is Yahbingle?
 
-Tired of making the decision as to which of the three most mainstream search engines you should use for your query? Neither am I. But if you are, you can now leave the decision making up to Yahbingle! Yahbingle will choose a search engine at random from Bing, Google and Yahoo to make your search.
+Tired of making the decision as to which of the four most mainstream search engines you should use for your query? Neither am I. But if you are, you can now leave the decision making up to Yahbingle! Yahbingle will choose a search engine at random from Bing, Google, DuckDuckGo, and Yahoo to make your search.
 
 ## Why?
 ...
